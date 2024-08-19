@@ -1,0 +1,27 @@
+*{
+	padding: 20px;
+	margin: 20px;
+}
+h1 {
+	text-align-last:center;
+}
+p {
+		font-size:20px;
+	color:brown;
+	background: :
+}
+h2 {
+	text-decoration-line: underline;
+	color:green;
+}
+h3 { 
+	text-decoration-line: underline;
+	color:blue;
+}
+img {
+width: 50%;
+}
+p {
+  border: black 1px solid;
+ 
+}
